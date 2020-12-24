@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="4.9.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DDDWebAPI.Aplicacao\DDDWebAPI.Aplicacao.csproj" />
+    <ProjectReference Include="..\DDDWebAPI.Dominio.Servicos\DDDWebAPI.Dominio.Servicos.csproj" />
+    <ProjectReference Include="..\DDDWebAPI.Infraestrutura.Repositorio\DDDWebAPI.Infraestrutura.Repositorio.csproj" />
+    <ProjectReference Include="..\DDDWebAPI.Infrastruture.CrossCutting.Adapter\DDDWebAPI.Infraestruture.CrossCutting.Adapter.csproj" />
+  </ItemGroup>
+
+</Project>

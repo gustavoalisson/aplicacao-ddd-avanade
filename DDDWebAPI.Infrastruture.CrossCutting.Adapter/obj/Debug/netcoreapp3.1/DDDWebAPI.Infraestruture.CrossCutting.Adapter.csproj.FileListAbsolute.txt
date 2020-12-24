@@ -1,0 +1,16 @@
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\DDDWebAPI.Infraestruture.CrossCutting.Adapter.deps.json
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\DDDWebAPI.Infraestruture.CrossCutting.Adapter.dll
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\DDDWebAPI.Infraestruture.CrossCutting.Adapter.pdb
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\DDDWebAPI.Aplicacao.DTO.dll
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\DDDWebAPI.Dominio.Core.dll
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\DDDWebAPI.Dominio.dll
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\DDDWebAPI.Aplicacao.DTO.pdb
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\DDDWebAPI.Dominio.pdb
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\DDDWebAPI.Dominio.Core.pdb
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestruture.CrossCutting.Adapter.csprojAssemblyReference.cache
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestruture.CrossCutting.Adapter.AssemblyInfoInputs.cache
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestruture.CrossCutting.Adapter.AssemblyInfo.cs
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestruture.CrossCutting.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestruture.CrossCutting.Adapter.csproj.CopyComplete
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestruture.CrossCutting.Adapter.dll
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infrastruture.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestruture.CrossCutting.Adapter.pdb

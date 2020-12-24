@@ -1,0 +1,16 @@
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Repositorio\bin\Debug\netcoreapp3.1\DDDWebAPI.Dominio.Core.dll
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Repositorio\bin\Debug\netcoreapp3.1\DDDWebAPI.Dominio.dll
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Repositorio\bin\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Data.dll
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Repositorio\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Repositorio.csprojAssemblyReference.cache
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Repositorio\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Repositorio.AssemblyInfoInputs.cache
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Repositorio\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Repositorio.AssemblyInfo.cs
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Repositorio\bin\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Repositorio.deps.json
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Repositorio\bin\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Repositorio.dll
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Repositorio\bin\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Repositorio.pdb
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Repositorio\bin\Debug\netcoreapp3.1\DDDWebAPI.Dominio.Core.pdb
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Repositorio\bin\Debug\netcoreapp3.1\DDDWebAPI.Dominio.pdb
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Repositorio\bin\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Data.pdb
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Repositorio\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Repositorio\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Repositorio.csproj.CopyComplete
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Repositorio\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Repositorio.dll
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Repositorio\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Repositorio.pdb

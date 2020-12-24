@@ -1,0 +1,9 @@
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Dominio\bin\Debug\netcoreapp3.1\DDDWebAPI.Dominio.deps.json
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Dominio\bin\Debug\netcoreapp3.1\DDDWebAPI.Dominio.dll
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Dominio\bin\Debug\netcoreapp3.1\DDDWebAPI.Dominio.pdb
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Dominio\obj\Debug\netcoreapp3.1\DDDWebAPI.Dominio.csprojAssemblyReference.cache
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Dominio\obj\Debug\netcoreapp3.1\DDDWebAPI.Dominio.AssemblyInfoInputs.cache
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Dominio\obj\Debug\netcoreapp3.1\DDDWebAPI.Dominio.AssemblyInfo.cs
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Dominio\obj\Debug\netcoreapp3.1\DDDWebAPI.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Dominio\obj\Debug\netcoreapp3.1\DDDWebAPI.Dominio.dll
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Dominio\obj\Debug\netcoreapp3.1\DDDWebAPI.Dominio.pdb

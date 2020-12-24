@@ -1,0 +1,12 @@
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Data\bin\Debug\netcoreapp3.1\DDDWebAPI.Dominio.dll
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Data\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Data.csprojAssemblyReference.cache
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Data\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Data.AssemblyInfoInputs.cache
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Data\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Data.AssemblyInfo.cs
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Data\bin\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Data.deps.json
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Data\bin\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Data.dll
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Data\bin\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Data.pdb
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Data\bin\Debug\netcoreapp3.1\DDDWebAPI.Dominio.pdb
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Data\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Data.csproj.CoreCompileInputs.cache
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Data\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Data.csproj.CopyComplete
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Data\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Data.dll
+C:\Users\Alisson Gustavo\source\repos\DDDWebAPI\DDDWebAPI.Infraestrutura.Data\obj\Debug\netcoreapp3.1\DDDWebAPI.Infraestrutura.Data.pdb

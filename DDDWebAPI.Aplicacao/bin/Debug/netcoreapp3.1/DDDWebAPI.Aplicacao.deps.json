@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DDDWebAPI.Aplicacao/1.0.0": {
+        "dependencies": {
+          "DDDWebAPI.Aplicacao.DTO": "1.0.0",
+          "DDDWebAPI.Dominio.Core": "1.0.0",
+          "DDDWebAPI.Infraestruture.CrossCutting.Adapter": "1.0.0"
+        },
+        "runtime": {
+          "DDDWebAPI.Aplicacao.dll": {}
+        }
+      },
+      "DDDWebAPI.Aplicacao.DTO/1.0.0": {
+        "dependencies": {
+          "DDDWebAPI.Dominio.Core": "1.0.0"
+        },
+        "runtime": {
+          "DDDWebAPI.Aplicacao.DTO.dll": {}
+        }
+      },
+      "DDDWebAPI.Dominio/1.0.0": {
+        "runtime": {
+          "DDDWebAPI.Dominio.dll": {}
+        }
+      },
+      "DDDWebAPI.Dominio.Core/1.0.0": {
+        "dependencies": {
+          "DDDWebAPI.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "DDDWebAPI.Dominio.Core.dll": {}
+        }
+      },
+      "DDDWebAPI.Infraestruture.CrossCutting.Adapter/1.0.0": {
+        "dependencies": {
+          "DDDWebAPI.Aplicacao.DTO": "1.0.0",
+          "DDDWebAPI.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "DDDWebAPI.Infraestruture.CrossCutting.Adapter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DDDWebAPI.Aplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DDDWebAPI.Aplicacao.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DDDWebAPI.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DDDWebAPI.Dominio.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DDDWebAPI.Infraestruture.CrossCutting.Adapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
